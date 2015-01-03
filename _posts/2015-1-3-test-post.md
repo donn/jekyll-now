@@ -5,7 +5,7 @@ title: Test page
 Does this text appear?
 
 Some code:
-```vala
+```C#
 //valac --pkg gee-1.0 etc.
 
 using Gee;
