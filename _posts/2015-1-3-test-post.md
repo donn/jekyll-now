@@ -38,4 +38,4 @@ public void foo( Obj o) {
   stdout.printf("In func foo, o ref:%u\n",o.ref_count);
 }
 ~~~
-{: .language-c#}
+
